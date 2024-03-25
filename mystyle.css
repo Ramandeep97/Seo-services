@@ -1,0 +1,143 @@
+.pt-2 {
+  padding-top: ($spacer * .3) !important;
+ 
+}
+@font-face {
+  font-family: Thicccboi Font;
+  src: url(THICCCBOI-Regular.woff2);
+}
+@font-face {
+  font-family: Thicccboi bold;
+  src: url(THICCCBOI-bold.woff2);
+}
+span{
+  font-family: Thicccboi bold;
+
+}
+
+p {
+  font-family: Thicccboi Font;
+
+}
+h1 h2 h3 h4 h5 h6 {
+  font-family: Thicccboi Font;
+}
+.gap-4 {
+    gap: 5.5rem !important;
+}
+
+
+
+i.fa-brands.fa-docker {
+    font-size: 55px;
+}
+.set3 .col-lg-3.col-sm-1.col-md-6.bg-white.text-center.bg-white {
+    padding: 50px 32px;
+}
+img.a {
+    width: 100%;
+}
+section.set4 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+	background-color:#fef9f1;
+}
+.set4 h3.display-4.mb-5 {
+    font-size: 41px;
+}
+.set4 .form {
+    display: flex;
+	    width: 70%;
+    padding: 7px 3px;
+}
+.set4 img.v {
+    width: 100%;
+}
+.pt-5 {
+    padding-top: 8rem !important;
+}
+.set4 button.btn.btn-warning.text-white.py-2.px-2 {
+    display: inline;
+    width: 22%;
+}
+.set5 h5.display-4.mb-5 {
+    font-size: 44px;
+}
+h5.display-4.mb-5 {
+    font-size: 45px;
+}
+.collect i.fa-solid.fa-circle-half-stroke {
+    font-size: 58px;
+}
+.collect {
+    display: flex;
+}
+.collect h6 {
+    margin: 0px;
+	    font-size: 20px;
+    font-weight: bold;
+}
+.collect p {
+    margin: 0px;
+}
+.collect {
+    display: flex;
+    column-gap: 16px;
+    align-items: center;
+}
+
+img.six {
+    width: 100%;
+}
+.page-container{
+	    
+    max-width: 1350px;
+    margin: 0 auto;
+}
+.set9 ul.feat {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.set9 .price.py-5.px-5.bg-white.shadow-lg.w-40 {
+    width: 45%;
+}
+.set9 .price.py-5.px-5.bg-white.shadow-lg {
+    width: 46%;
+}
+.set9 .price.bg-white.shadow-lg.w-40.text-center {
+    padding: 76px 88px;
+}
+.set9 .offer {
+    margin-top: 119px;
+}
+.set9 .row {
+    column-gap: 60px;
+}
+.set9 .plan {
+    padding: 6px 15px;
+}
+.set12 ul {
+    list-style: none;
+    padding-left: 0px;
+}
+.set12 a {
+    text-decoration: none;
+}
+input#mce-EMAIL2 {
+    background-color: #3a455700;
+    border: 1px solid #fef7f742;
+    color: #ffffff8a;
+    padding: 18px;
+}
+.mc-field-group.input-group.form-floating {
+    padding: 0px 3px;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+.col-sm-1 br {
+    display: none;
+}
+
+}
